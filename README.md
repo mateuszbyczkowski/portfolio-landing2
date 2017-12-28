@@ -1,3 +1,3 @@
 # Portfolio landing page.
-Simple landing page for future project.
+Simple landing page in HTML/CSS.
 ## Work in progress
